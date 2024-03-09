@@ -3,5 +3,5 @@
 
 **Screenshot:**
 
-![App Screenshot](https://github.com/Ranjith-M7/Profile-Cards/assets/126071064/295333a9-d1a6-4cc3-81a7-5039ee73e138)
+![App Screenshot](https://github.com/Ranjith-M7/Profile-Cards/assets/126071064/8ad990fc-0905-4f48-89fa-822d810772c9)
 
